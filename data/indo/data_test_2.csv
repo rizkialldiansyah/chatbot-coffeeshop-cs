@@ -1,0 +1,135 @@
+text_input,intents
+rekomen non kopi,beverages_recommendation
+kopi yg enk apa?,beverages_recommendation
+buka jam brp?,jam_oprasional
+pengen kopi yang enak dong?,beverages_recommendation
+lagi pengen kopi nih mcobot,beverages_recommendation
+rekomendassin kopi enak dong,beverages_recommendation
+kopi enak nih,beverages_recommendation
+apaan sih mcobot tuh?,tentang_mcobot
+"udah gitu aja,makasih ya",akhiri_perbincangan
+kopi dong yang enak apa aja?,beverages_recommendation
+kopi kayanya enak nih,beverages_recommendation
+yang bengawan jalan apa sih?,lokasi_bengawan
+sharelok jalan bengawan dong,lokasi_bengawan
+cik kirim alamat nu cabang bengawan,lokasi_bengawan
+minuman yg enk,beverages_recommendation
+udah ah makasih,akhiri_perbincangan
+ka pengen mesen tempat dong,rsvp
+"pesen tempat yg bengawan ka, buat 5 orang",rsvp
+kalau mesen tempat bisa?,rsvp
+mesen tempat gimana caranya?,rsvp
+mesen tempat ada syaratnya ga sih?,rsvp
+boleh minta contact cs ga?,contact_cs
+minuman yang biasa dibeli apa ka?,beverages_recommendation
+pengen minuman yang enak,beverages_recommendation
+minuman yang enk banget apa tuh?,beverages_recommendation
+yang biasa dibeli apa aja?,beverages_recommendation
+rekomen minuman terenak dong,beverages_recommendation
+"haloo, ini apaan ya?",tentang_mcobot
+makasih banget infonya,akhiri_perbincangan
+"ohh gitu,yaudah makasih infonya ya",akhiri_perbincangan
+"oh baik kalau begitu,terimaksih",akhiri_perbincangan
+boleh minta alamat yang bengawan,lokasi_bengawan
+Apa saja minuman non-coffee yang cocok untuk sarapan?,beverages_recommendation
+Apakah ada minuman non-coffee yang cocok untuk orang yang sedang diet?,beverages_recommendation
+Apa saja minuman non-coffee yang cocok untuk orang yang ingin mengurangi konsumsi kafein?,beverages_recommendation
+Apakah ada minuman non-coffee yang cocok untuk orang yang memiliki masalah kesehatan tertentu?,beverages_recommendation
+Apa saja minuman non-coffee yang cocok untuk orang yang ingin mencoba sesuatu yang baru?,beverages_recommendation
+Bagaimana cara memilih minuman non-coffee yang sesuai dengan selera?,beverages_recommendation
+Mcobot itu dapat digunakan untuk apa?,tentang_mcobot
+Mcobot itu kegunaannya apa sih?,tentang_mcobot
+Mcobot itu bisa digunakan untuk apa aja?,tentang_mcobot
+Mcobot itu bisa digunakan untuk apa sih?,tentang_mcobot
+Mcobot itu robot apa manusia?,tentang_mcobot
+Mcobot itu siapa sih?,tentang_mcobot
+Mcobot bisa ngapain aja lo?,tentang_mcobot
+Mcobot bisa ngapain aja sih?,tentang_mcobot
+Kamu bisa apa aja sih?,tentang_mcobot
+Boleh jlsin mcobot tuh ngapain aja?,tentang_mcobot
+Kamu bsa ap aja sih?,tentang_mcobot
+Kamu bisa ngapain aja?,tentang_mcobot
+Gimana cara kerja Mcobot sih?,tentang_mcobot
+Gimana cara kerjanya Mcobot?,tentang_mcobot
+Bagaimana cara melakukan reservasi untuk acara komunitas di m company coffee?,rsvp
+Cara reservasi tempat untuk acara pameran di m company coffee?,rsvp
+"Saya ingin reservasi meja untuk acara makan malam, bagaimana caranya di m company coffee?",rsvp
+Cara mengecek jadwal acara yang akan diadakan di m company coffee?,rsvp
+Apakah ada fasilitas khusus untuk pemesan reservasi di m company coffee?,rsvp
+Bagaimana cara melakukan reservasi untuk acara rutin di m company coffee?,rsvp
+Bolehkah saya melakukan reservasi di m company coffee?,rsvp
+Apakah ada syarat khusus untuk melakukan reservasi di m company coffee?,rsvp
+Bagaimana cara melakukan reservasi secara online di m company coffee?,rsvp
+Cara melakukan reservasi tempat untuk acara pernikahan di m company coffee?,rsvp
+Cara mengecek status reservasi saya di m company coffee?,rsvp
+Cara melakukan reservasi tempat untuk acara ulang tahun di m company coffee?,rsvp
+"Saya ingin melakukan reservasi tempat untuk acara kantor, bagaimana caranya di m company coffee?",rsvp
+Di mana kita bisa menjumpai cabang bengawan di wilayah ini?,lokasi_bengawan
+Informasi lokasi cabang bengawan di wilayah ini,lokasi_bengawan
+Informasi alamat cabang bengawan di wilayah ini,lokasi_bengawan
+Cabang bengawan di mana saja di provinsi ini?,lokasi_bengawan
+Di mana kita bisa menjumpai cabang bengawan di provinsi ini?,lokasi_bengawan
+Informasi lokasi cabang bengawan di provinsi ini,lokasi_bengawan
+Informasi alamat cabang bengawan di provinsi ini,lokasi_bengawan
+Cabang bengawan di mana saja di negara ini?,lokasi_bengawan
+Di mana kita bisa menjumpai cabang bengawan di negara ini?,lokasi_bengawan
+Di mana letak cabang bengawan yang paling banyak pengunjung?,lokasi_bengawan
+Cabang bengawan di mana yang paling banyak dikunjungi?,lokasi_bengawan
+Di mana alamat cabang bengawan yang paling banyak dikunjungi?,lokasi_bengawan
+Cabang bengawan di mana yang paling banyak digemari?,lokasi_bengawan
+Di mana letak cabang bengawan yang paling banyak digemari?,lokasi_bengawan
+Cabang bengawan di mana yang paling banyak dipesan?,lokasi_bengawan
+Di mana alamat cabang bengawan yang paling banyak dipesan?,lokasi_bengawan
+Jam buka M Company Coffee di hari keagamaan?,jam_oprasional
+Jam tutup M Company Coffee di hari keagamaan?,jam_oprasional
+Jam operasional M Company Coffee di hari keagamaan?,jam_oprasional
+Jam buka M Company Coffee di hari besar nasional?,jam_oprasional
+Jam tutup M Company Coffee di hari besar nasional?,jam_oprasional
+Jam operasional M Company Coffee di hari besar nasional?,jam_oprasional
+Jam buka di outlet M Company Coffee mana saja?,jam_oprasional
+Jam tutup di outlet M Company Coffee mana saja?,jam_oprasional
+Jam operasional di outlet M Company Coffee mana saja?,jam_oprasional
+M Company Coffee buka jam berapa di hari minggu?,jam_oprasional
+M Company Coffee tutup jam berapa di hari minggu?,jam_oprasional
+M Company Coffee operasional jam berapa di hari minggu?,jam_oprasional
+Apakah M Company Coffee masih buka saat ini?,jam_oprasional
+Apakah M Company Coffee sudah tutup saat ini?,jam_oprasional
+Buka jam berapa M Company Coffee?,jam_oprasional
+Tutup jam berapa M Company Coffee?,jam_oprasional
+Jam operasional M Company Coffee apa?,jam_oprasional
+Jam kerja M Company Coffee apa?,jam_oprasional
+Jam buka hari Minggu M Company Coffee kapan?,jam_oprasional
+Apakah ada cara khusus untuk mengikuti akun instagram resmi M Coffee Company?,media_social
+Apakah akun instagram M Coffee Company dapat di follow di mana?,media_social
+Apakah akun instagram M Coffee Company dapat ditemukan di mana?,media_social
+Apakah akun instagram M Coffee Company dapat diikuti di mana?,media_social
+Bisa dapatkan nama akun instagram M Coffee Company?,media_social
+Apakah akun instagram M Coffee Company dapat diikuti sekarang?,media_social
+Apakah M Coffee Company memiliki akun media sosial lain selain instagram?,media_social
+Apakah akun instagram M Coffee Company dapat diikuti melalui link?,media_social
+Apakah akun instagram M Coffee Company sudah diikuti atau belum?,media_social
+Apakah ada cara untuk mendaftar di akun instagram M Coffee Company?,media_social
+Apakah akun instagram M Coffee Company dapat diikuti dengan cara tertentu?,media_social
+Apakah akun instagram M Coffee Company dapat diikuti melalui aplikasi?,media_social
+Apakah M Coffee Company memiliki akun instagram yang resmi?,media_social
+Apakah akun instagram M Coffee Company dapat diikuti melalui website?,media_social
+Apakah akun instagram M Coffee Company dapat diikuti dengan mencari namanya?,media_social
+Apakah akun instagram M Coffee Company dapat diikuti dengan mengetahui username-nya?,media_social
+Apakah M Coffee Company memiliki akun instagram yang aktif?,media_social
+Apakah akun instagram M Coffee Company dapat diikuti dengan mencari username-nya?,media_social
+Apakah akun instagram M Coffee Company dapat diikuti dengan mengetahui namanya?,media_social
+Apakah ada kontak darurat untuk masalah yang harus segera ditangani oleh CS?,contact_cs
+Bagaimana cara mengirimkan email ke CS?,contact_cs
+Apakah ada layanan telepon darurat untuk masalah yang harus segera ditangani oleh CS?,contact_cs
+Apakah ada layanan bantuan dari CS dalam bentuk video call?,contact_cs
+Apakah ada layanan bantuan dari CS dalam bentuk telepon konferensi?,contact_cs
+Bagaimana cara mengirimkan pesan melalui media sosial ke CS?,contact_cs
+Apakah ada layanan bantuan dari CS melalui aplikasi?,contact_cs
+Makasih udah usaha,akhiri_perbincangan
+Terima kasih atas dedikasimu,akhiri_perbincangan
+Makasih udah dedikasi,akhiri_perbincangan
+Terima kasih atas pengabdianmu,akhiri_perbincangan
+Makasih udah siap bantu,akhiri_perbincangan
+Terima kasih atas kerelaanmu,akhiri_perbincangan
+Makasih udah rela bantu,akhiri_perbincangan
+Terima kasih atas komitmenmu,akhiri_perbincangan

@@ -1,0 +1,135 @@
+text_input,intents
+Recommendation Non-coffee drink,beverages_recommendation
+What's a delicious coffee?,beverages_recommendation
+What time do you open?,jam_oprasional
+"I want a tasty coffee, please.",beverages_recommendation
+"Craving for coffee, Mcobot.",beverages_recommendation
+"Recommend me a delicious coffee, please.",beverages_recommendation
+This coffee is delicious.,beverages_recommendation
+"What is Mcobot, actually?",tentang_mcobot
+"That's it, thank you.",akhiri_perbincangan
+Any recommendations for tasty coffee?,beverages_recommendation
+This coffee seems delicious.,beverages_recommendation
+What's the direction to Bengawan?,lokasi_bengawan
+Please share the location of Bengawan.,lokasi_bengawan
+Send me the address of the nearest Bengawan branch.,lokasi_bengawan
+Delicious beverage.,beverages_recommendation
+"Alright, thanks.",akhiri_perbincangan
+"Hey, can I order a table?",rsvp
+Order a table at Bengawan for 5 people.,rsvp
+Can I make a reservation for a table?,rsvp
+How do I order a table?,rsvp
+Are there any specific requirements for booking a table?,rsvp
+Can I have the contact for customer service?,contact_cs
+What non-coffee drinks are usually purchased?,beverages_recommendation
+I want a delicious beverage.,beverages_recommendation
+What's a really tasty beverage?,beverages_recommendation
+What are the common items purchased?,beverages_recommendation
+Please recommend the most delicious drinks.,beverages_recommendation
+"Hello, what is this?",tentang_mcobot
+Thank you so much for the information.,akhiri_perbincangan
+"Oh, I see. Well, thank you for the information.",akhiri_perbincangan
+"Oh, alright then. Thanks.",akhiri_perbincangan
+"Okay, if that's the case, thank you.",lokasi_bengawan
+Can I have the address of Bengawan?,beverages_recommendation
+What non-coffee beverages are suitable for breakfast?,beverages_recommendation
+Are there non-coffee beverages suitable for people on a diet?,beverages_recommendation
+What non-coffee drinks are suitable for those looking to reduce caffeine intake?,beverages_recommendation
+Are there non-coffee drinks suitable for people with specific health issues?,beverages_recommendation
+What non-coffee drinks are suitable for those who want to try something new?,beverages_recommendation
+How do I choose a non-coffee drink that fits my taste?,tentang_mcobot
+What is Mcobot used for?,tentang_mcobot
+What is the purpose of Mcobot?,tentang_mcobot
+What can Mcobot be used for?,tentang_mcobot
+What can Mcobot do?,tentang_mcobot
+Is Mcobot a robot or a human?,tentang_mcobot
+Who is Mcobot?,tentang_mcobot
+What can Mcobot do?,tentang_mcobot
+What are the capabilities of Mcobot?,tentang_mcobot
+What can you do?,tentang_mcobot
+Please explain what Mcobot can do.,tentang_mcobot
+What abilities do you have?,tentang_mcobot
+What can you do?,tentang_mcobot
+How does Mcobot work?,tentang_mcobot
+How does Mcobot operate?,rsvp
+How do I make a reservation for a community event at M Company Coffee?,rsvp
+How do I reserve a space for an exhibition event at M Company Coffee?,rsvp
+"I'd like to reserve a table for a dinner event, how do I do that at M Company Coffee?",rsvp
+How can I check the schedule of events held at M Company Coffee?,rsvp
+Are there special facilities for reservation customers at M Company Coffee?,rsvp
+How do I make a reservation for a regular event at M Company Coffee?,rsvp
+Is it possible to make a reservation at M Company Coffee?,rsvp
+Are there any specific requirements for making a reservation at M Company Coffee?,rsvp
+How do I make an online reservation at M Company Coffee?,rsvp
+How do I reserve a venue for a wedding event at M Company Coffee?,rsvp
+How can I check the status of my reservation at M Company Coffee?,rsvp
+How do I reserve a venue for a birthday event at M Company Coffee?,rsvp
+"I want to reserve a venue for a company event, how do I do that at M Company Coffee?",lokasi_bengawan
+Where can I find a Bengawan branch in this area?,lokasi_bengawan
+Information about the locations of Bengawan branches in this area.,lokasi_bengawan
+Please provide the address of the nearest Bengawan branch in this area.,lokasi_bengawan
+Which Bengawan branches are available in this province?,lokasi_bengawan
+Where can I find Bengawan branches in this province?,lokasi_bengawan
+Information about the locations of Bengawan branches in this province.,lokasi_bengawan
+Please provide the address of the nearest Bengawan branch in this province.,lokasi_bengawan
+Which Bengawan branches are available in this country?,lokasi_bengawan
+Where can I find Bengawan branches in this country?,lokasi_bengawan
+Which Bengawan branch has the highest number of visitors?,lokasi_bengawan
+Where is the most visited Bengawan branch?,lokasi_bengawan
+What is the address of the most visited Bengawan branch?,lokasi_bengawan
+Which Bengawan branch is the most popular?,lokasi_bengawan
+Where is the most popular Bengawan branch located?,lokasi_bengawan
+Which Bengawan branch receives the most orders?,lokasi_bengawan
+What is the address of the most frequently ordered Bengawan branch?,jam_oprasional
+What are the operating hours of M Company Coffee on religious holidays?,jam_oprasional
+What are the closing hours of M Company Coffee on religious holidays?,jam_oprasional
+What are the operating hours of M Company Coffee on national holidays?,jam_oprasional
+What are the closing hours of M Company Coffee on national holidays?,jam_oprasional
+What are the operating hours of the M Company Coffee outlets?,jam_oprasional
+What are the closing hours of the M Company Coffee outlets?,jam_oprasional
+What are the operating hours of M Company Coffee on Sundays?,jam_oprasional
+What are the closing hours of M Company Coffee on Sundays?,jam_oprasional
+Is M Company Coffee open now?,jam_oprasional
+Is M Company Coffee closed now?,jam_oprasional
+What time does M Company Coffee open?,jam_oprasional
+What time does M Company Coffee close?,jam_oprasional
+What are the operating hours of M Company Coffee?,jam_oprasional
+What are the working hours of M Company Coffee?,jam_oprasional
+What time does M Company Coffee open on Sundays?,jam_oprasional
+Is there a specific way to follow M Coffee Company's official Instagram account?,jam_oprasional
+Where can I follow M Coffee Company's Instagram account?,jam_oprasional
+Where can I find M Coffee Company's Instagram account?,jam_oprasional
+Where can I follow M Coffee Company's Instagram account?,media_social
+Can I get the username of M Coffee Company's Instagram account?,media_social
+Can I follow M Coffee Company's Instagram account now?,media_social
+Does M Coffee Company have other social media accounts besides Instagram?,media_social
+Can I follow M Coffee Company's Instagram account through a link?,media_social
+Has M Coffee Company's Instagram account been followed or not?,media_social
+Is there a way to sign up for M Coffee Company's Instagram account?,media_social
+Can I follow M Coffee Company's Instagram account in a specific way?,media_social
+Can I follow M Coffee Company's Instagram account through an application?,media_social
+Does M Coffee Company have an official Instagram account?,media_social
+Can I follow M Coffee Company's Instagram account through the website?,media_social
+Can I follow M Coffee Company's Instagram account by searching its name?,media_social
+Can I follow M Coffee Company's Instagram account by knowing its username?,media_social
+Is M Coffee Company's Instagram account active?,media_social
+Can I follow M Coffee Company's Instagram account by searching for its username?,media_social
+Can I follow M Coffee Company's Instagram account by knowing its name?,media_social
+Is there an emergency contact for urgent issues to be addressed by customer service?,media_social
+How do I send an email to customer service?,media_social
+Is there an emergency phone service for urgent issues to be addressed by customer service?,media_social
+Is there a video call assistance service from customer service?,contact_cs
+Is there a conference call assistance service from customer service?,contact_cs
+How do I send a message via social media to customer service?,contact_cs
+Is there an application-based assistance service from customer service?,contact_cs
+Thank you for your efforts.,contact_cs
+Thank you for your dedication.,contact_cs
+Thank you for your dedication.,contact_cs
+Thank you for your commitment.,akhiri_perbincangan
+Terima kasih atas dedikasimu,akhiri_perbincangan
+Makasih udah dedikasi,akhiri_perbincangan
+Terima kasih atas pengabdianmu,akhiri_perbincangan
+Makasih udah siap bantu,akhiri_perbincangan
+Terima kasih atas kerelaanmu,akhiri_perbincangan
+Makasih udah rela bantu,akhiri_perbincangan
+Terima kasih atas komitmenmu,akhiri_perbincangan
